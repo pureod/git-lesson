@@ -1,5 +1,5 @@
 2024-01-05
 git push 연습
 git push 변수명 특정브랜치
--쓰기 위해서는 git remote add 변수 변수할당값
+-쓰기 위해서는 git remote add 변수 변수할당값(주소)
 -예시: git remote add origin https://github.com/pureod/git-lesson.git
